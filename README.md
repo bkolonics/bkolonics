@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
-- 👨‍💻 All of my projects are available at [On my website](https://bence.kolonics.fr)
+- 👨‍💻 All of my projects are available [on my website](https://bence.kolonics.fr)
 
 - 📄 Know about my experiences [On linkedIn](https://www.linkedin.com/in/bence-kolonics)
 
