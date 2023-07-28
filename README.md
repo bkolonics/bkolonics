@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available [on my website](https://bence.kolonics.fr)
 
-- 📄 Know about my experiences [On linkedIn](https://www.linkedin.com/in/bence-kolonics)
+- 📄 Know about my experiences [on linkedIn](https://www.linkedin.com/in/bence-kolonics)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
