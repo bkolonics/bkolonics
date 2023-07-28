@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bence</h1>
 <h3 align="center">A passionate Business student from France who also loves to write code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bkolonics&label=Profile%20views&color=0e75b6&style=flat" alt="bkolonics" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bkolonics&label=Profile%20views&color=0e75b6&style=flat" alt="bkolonics" /> </p>
 
 - 🔭 I’m currently working on **My homelab**
 
