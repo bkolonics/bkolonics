@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available [on my website](https://bence.kolonics.fr)
 
-- 📄 Know about my experiences [My resume](https://bkolonics.github.io/files/cv_bence_kolonics_fr.pdf)
+- 📄 Know about my experiences [on my resume](https://bkolonics.github.io/files/cv_bence_kolonics_fr.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
