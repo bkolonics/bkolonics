@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My homelab**
 
-- 🌱 I’m currently learning **Kubernetes, React**
+- 🌱 I’m currently learning **Kubernetes, React, Astro**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
